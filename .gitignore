@@ -1,2 +1,3 @@
-*txt 
-!text1.txt
+*.txt
+!file1.txt
+
